@@ -1,0 +1,19 @@
+
+.session-content>div {
+    min-height: calc(100vh - 58px);
+    padding: 100px 0;
+    z-index:0;
+}
+.survey-session1 {
+    background-color: #000;
+    background-image: url(/img/BG.png);
+    background-size: contain;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    z-index:0;
+}
+.img-moving{
+    position:absolute;
+    z-index:9;
+}
